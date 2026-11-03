@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.vite/
+*.local
+*.log
+benchmark/dataset/
+benchmark/reports/
+.DS_Store
